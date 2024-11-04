@@ -1,4 +1,4 @@
-# h3lix-RC6-patched
+# h3lix-RC6-patched 
 h3lix-RC6-patched ios 10.3.4 and lower 10.x.x
 
 fix "uicache failed" so easy
@@ -18,3 +18,7 @@ https://www.google.com/search?q=could+not+open+file+%2Fvar%2Flib%2Fdpkg%2Fstatus
 
 ---
 https://www.youtube.com/watch?v=o3nMT7_x5jc
+
+///
+*** Took me more than 3 hours to read and fix --> stupid i am ***
+hope you enjoy
